@@ -4,6 +4,12 @@
 [![Target](https://img.shields.io/badge/Target-CrowPanel%20Advanced%207inch%20V1.1-00695C)](#対象製品)
 [![Development](https://img.shields.io/badge/Development-Arduino%20IDE%20%2F%20ESP--IDF%20%2B%20VS%20Code-007ACC)](#収録資料)
 
+# CrowPanel Advanced 7inch 開発資料・日本語Lesson集
+
+[![YouTube](https://img.shields.io/badge/YouTube-regional--engineer-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@regional-engineer)
+[![Target](https://img.shields.io/badge/Target-CrowPanel%20Advanced%207inch%20V1.1-00695C)](#対象製品)
+[![Development](https://img.shields.io/badge/Development-Arduino%20IDE%20%2F%20ESP--IDF%20%2B%20VS%20Code-007ACC)](#収録資料)
+
 CrowPanel Advanced 7inch（ESP32-P4搭載、1024×600タッチディスプレイ）の開発に必要な**日本語のLesson資料**、**ESP-IDF × Visual Studio Codeの導入手順書**、および関連するArduinoライブラリを整理して公開するリポジトリです。
 
 Elecrow公式資料・公式サンプルを日本語で理解しやすくすることを目的としています。まずは対象基板のバージョンと利用する開発環境を確認し、公式サンプルを小さく検証してから、ご自身のアプリケーションへ発展させてください。
@@ -121,6 +127,21 @@ Raspberry PiとCrowPanelを連携するAI会話表示システムへ発展させ
 
 本リポジトリに収録・紹介する日本語資料は理解補助を目的としたものです。仕様変更、不具合、ライセンス、配線、C6ファームウェアの扱いなどの最終判断は、必ずElecrowおよびEspressifの公式資料で確認してください。[1] [2] [3]
 
+---
+
+## 質問・改善提案
+
+資料の誤記、分かりにくい表現、動作環境との差異、追加してほしいLessonがあれば、[Issues](../../issues)でお知らせください。再現条件を確認できるよう、次の情報を添えていただけると助かります。
+
+| 項目 | 記載例 |
+| --- | --- |
+| 基板の版 | Hardware & Software V1.1 |
+| 開発環境 | Arduino IDEの版、ESP-IDFの版、Visual Studio Codeの版 |
+| 使用したサンプル | `Lesson09-LVGL_Lighting_Control` など |
+| 期待した結果と実際の結果 | 画面表示の有無、`got ip:`の有無など |
+| ログ | 秘密情報を削除・マスクしたシリアルログ |
+
+Pull Requestによる誤記修正、手順の改善、資料追加も歓迎します。追加する資料については、元となる公式情報の出典と、対象ハードウェア版を明記してください。
 
 ---
 
