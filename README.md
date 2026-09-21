@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://youtu.be/J4xz2Tut6aU">
-    <img src="http://img.youtube.com/vi/J4xz2Tut6aU/default.jpg" alt="ESP32の最強進化形「P4」搭載！ELECROW 7インチ タッチディスプレイ開封＆スペック解説" width="720">
+    <img src="http://img.youtube.com/vi/J4xz2Tut6aU/sddefault.jpg" alt="ESP32の最強進化形「P4」搭載！ELECROW 7インチ タッチディスプレイ開封＆スペック解説" width="720">
   </a>
 </p>
 
