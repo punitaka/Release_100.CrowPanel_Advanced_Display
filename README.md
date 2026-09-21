@@ -9,6 +9,16 @@
 
 - 🎥 YouTubeチャンネル：[@regional-engineer](https://www.youtube.com/@regional-engineer)
 
+<p align="center">
+  <a href="https://youtu.be/J4xz2Tut6aU">
+    <img src="http://img.youtube.com/vi/J4xz2Tut6aU/default.jpg" alt="ESP32の最強進化形「P4」搭載！ELECROW 7インチ タッチディスプレイ開封＆スペック解説" width="720">
+  </a>
+</p>
+
+
+<p align="center"><strong>画像をクリックすると制作動画を再生します。</strong></p>
+
+
 > [!NOTE]
 > 本リポジトリはElecrow社公式のLesson資料・コース資料を参考に、個人が非公式に翻訳・作成したものです。Elecrow社の公式ドキュメントではありません。内容の正確性については可能な限り注意していますが、製品仕様やソフトウェアのバージョンアップにより実際の画面表示やメニュー名等が変更される場合があります。最新の一次情報は必ず[Elecrow公式サイト](https://www.elecrow.com/)・[Elecrow公式Wiki](https://www.elecrow.com/wiki/)・各ソフトウェアの公式ドキュメントをご確認ください。
 
